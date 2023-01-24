@@ -1,0 +1,20 @@
+:root {
+    --red: #dc3545;
+}
+
+
+
+/*! ----------- Navbar👇---------- */
+.navbar {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.nav-link {
+    transition: color 0.5s;
+}
+
+.nav-link:hover {
+    color: var(--red);
+    cursor: pointer;
+}
