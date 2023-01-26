@@ -74,3 +74,8 @@ section#our-employees .socials i {
 section#our-employees .socials i:hover {
     opacity: 0.5;
 }
+
+.our-shoes {
+    max-width: 300px;
+    min-width: 200;
+}
