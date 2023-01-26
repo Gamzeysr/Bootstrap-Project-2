@@ -32,10 +32,11 @@
     text-shadow: 1px 1px 1px rgb(119, 87, 28);
 }
 
-/* .carousel-item {
+.carousel-item {
     max-height: calc(100vh - 151px);
 
-} */
+
+}
 
 .carousel-indicators button {
     background-color: var(--pink) !important;
